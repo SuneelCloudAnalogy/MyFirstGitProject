@@ -1,1 +1,1 @@
-//Hi Sam, Welcome in GitHub. Sam 
+//Hi Sam, Welcome in GitHub. Sam is developer.
